@@ -1,6 +1,8 @@
 # Templates
 This repo contains various templates for different tech stacks to get started quickly.
 <details>
+	<summary>node  typesript starter</summary>
+	
 - [x] node  typesript starter
 	- [x] node
 	- [x] typescript
@@ -11,6 +13,7 @@ This repo contains various templates for different tech stacks to get started qu
 	- [x] Add type module in package json
 	- [ ] bash script
 	- [x] [Github](https://github.com/GautamRaj-1200/node-ts-starter)
+ 
 </details>
 - [ ] node  typesript starter with pre commit hooks
 	- [ ] node
