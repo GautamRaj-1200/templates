@@ -1,7 +1,7 @@
 # Templates
 
 <details>
-	<summary><strong>[node typescript starter](https://github.com/GautamRaj-1200/node-ts-starter)</strong></summary>
+	<summary><strong><a href="https://github.com/GautamRaj-1200/node-ts-starter" target="_blank">node typescript starter </a></strong></summary>
 	
 A foundational template for any Node.js project using TypeScript. It's configured with essential tools for development, linting, and code formatting to ensure code quality and consistency from the start.
 
