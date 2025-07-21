@@ -1,0 +1,56 @@
+# Templates
+This repo contains various templates for different tech stacks to get started quickly.
+<details>
+- [x] node  typesript starter
+	- [x] node
+	- [x] typescript
+	- [x] nodemon
+	- [x] eslint
+	- [x] prettier
+	- [x] gitignore
+	- [x] Add type module in package json
+	- [ ] bash script
+	- [x] [Github](https://github.com/GautamRaj-1200/node-ts-starter)
+</details>
+- [ ] node  typesript starter with pre commit hooks
+	- [ ] node
+	- [ ] typescript
+	- [ ] nodemon
+	- [ ] eslint
+	- [ ] prettier
+	- [ ] gitignore
+	- [ ] husky
+	- [ ] commitlint
+	- [ ] lint-staged
+	- [ ] bash script
+- [ ] node mongo express typescript 
+	- [ ] node
+	- [ ] typescript
+	- [ ] nodemon
+	- [ ] eslint
+	- [ ] prettier
+	- [ ] gitignore
+	- [ ] bash script
+- [ ] node mongo express typescript with pre commit hooks
+	- [ ] node
+	- [ ] typescript
+	- [ ] nodemon
+	- [ ] eslint
+	- [ ] prettier
+	- [ ] gitignore
+	- [ ] husky
+	- [ ] commitlint
+	- [ ] lint-staged
+	- [ ] bash script
+- [ ] node mongo express typescript with jwt auth
+- [ ] mern jwt auth js
+- [ ] mern jwt auth ts
+- [ ] mern clerk auth ts
+- [ ] mern authjs oauth auth 
+- [ ] pern jwt auth js
+- [ ] pern jwt auth ts
+- [ ] pern clerk auth ts
+- [ ] pern authjs oauth auth 
+- [ ] next js nextauth simple email pwd
+- [ ] next js next auth oauth
+- [ ] Monorepo
